@@ -1,6 +1,6 @@
 # Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 
+### DATE: 1/12/2024
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -31,10 +31,9 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/98458892-2f68-4de0-bec7-24959ec598fa)
 
 ### Step 6.:- After completing all settings then click the Slice option and export the file in gcode format.
-
-![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/f4b8b55e-6cb2-46a7-b42c-180bc5e68668)
-
 ![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/eafa933a-7e03-4f73-930d-75fb28d48716)
+
+
 
 ### Step 7.:- After generating the gcode format then follow the these instruction as shown in below figure.
 ###   1.	Switch on the 3d printer.
@@ -46,9 +45,11 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/f4b8b55e-6cb2-46a7-b42c-180bc5e68668)
 
-### Name:
-### Register Number:
+
+### Name:Sujith A
+### Register Number:24900130
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
