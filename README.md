@@ -1,4 +1,4 @@
-# Ex. No.   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# Ex. No. 3   - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
 ### DATE: 1/12/2024
 ## AIM: 
@@ -46,10 +46,11 @@
 
 ## Output:
 ![image](https://github.com/Sellakumar1987/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/113594316/f4b8b55e-6cb2-46a7-b42c-180bc5e68668)
+<img width="811" alt="image" src="https://github.com/user-attachments/assets/2af4f9b6-8811-4c47-a5a6-dd43b2b7a878" />
 
 
-### Name:Sujith A
-### Register Number:24900130
+### Name: SUJITH A
+### Register Number: 24900130
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
