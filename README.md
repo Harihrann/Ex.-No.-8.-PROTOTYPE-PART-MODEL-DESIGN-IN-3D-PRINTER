@@ -49,8 +49,8 @@
 <img width="811" alt="image" src="https://github.com/user-attachments/assets/2af4f9b6-8811-4c47-a5a6-dd43b2b7a878" />
 
 
-### Name: SUJITH A
-### Register Number: 24900130
+### Name: HARIHARAN.S
+### Register Number: 24005920
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
